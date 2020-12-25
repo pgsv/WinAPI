@@ -1,0 +1,14 @@
+
+■　API宣言の条件分け（64bitとか)
+
+https://hatena19.com/use-win-api-with-office-64bit-or-32bit-vba/
+
+■　API関数一覧
+https://docs.microsoft.com/ja-jp/windows/win32/apiindex/windows-api-list?redirectedfrom=MSDN
+
+■　API関数宣言一覧
+https://vbabeginner.net/data/Win32API_PtrSafe.TXT
+
+
+■　SendMessageAとsendMessageWの違い
+http://hp.vector.co.jp/authors/VA000092/win32/win32trivia.html
